@@ -26,3 +26,8 @@ https://github.com/microsoft/GSL
 https://en.cppreference.com/w/
 
 # rust tutorial
+
+# bloggers
+http://blog.ezyang.com/
+
+https://jalammar.github.io/
