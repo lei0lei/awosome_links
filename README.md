@@ -6,3 +6,12 @@ https://github.com/Textualize/rich
 https://github.com/Textualize/rich-cli
 
 # pytorch internals
+
+
+
+# computer vision
+
+
+
+# poing cloud
+https://pointclouds.org/ 
